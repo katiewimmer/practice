@@ -2,3 +2,6 @@
 Welcome to my example!
 
 This line denotes the second commit
+
+I have made the remote status "ahead" of the local status
+by typing these two lines
